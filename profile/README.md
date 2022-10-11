@@ -1,7 +1,7 @@
 <h1 align="center">GDG Vancouver</h1>
 
 <div align="center">
-  <a href="https://gdg.community.dev/gdg-vancouver/" target="_blank"><img src="https://user-images.githubusercontent.com/99620863/194986802-103da9e9-3a1a-4bfd-8ac4-5b40e7c9a44f.png" border="0" title="GDG-Vancouver" alt="GDG-Vancouver"></a>
+  <a href="https://gdg.community.dev/gdg-vancouver/" target="_blank"><img src="https://user-images.githubusercontent.com/99620863/194999811-0869bf9d-8adf-4588-9a2e-c824f0487168.svg" border="0" title="GDG-Vancouver" alt="GDG-Vancouver"></a>
 </div>
 
 <br />
