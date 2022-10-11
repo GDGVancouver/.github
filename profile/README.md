@@ -10,7 +10,7 @@
 interested in tech - from beginner developers to experienced professionals are welcome to join.**
 
 <div align="center">
-<h2> Upcomming Event </h2>
+<h2> Upcoming Event </h2>
 </div>
 
 <div align="center">
